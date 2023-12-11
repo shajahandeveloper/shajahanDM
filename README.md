@@ -22,10 +22,10 @@ Access data and IDs of other users watching the same movies.
 #step 7:
 Identify the users who are most similar to the user to be suggested.
 
-Note: Unable to add Ratings.csv file as the file is very large.
-
 #step 8:
 Calculating Weighted Average Recommendation Score and keeping the first 5 movies.
 
 #step 9:
 Making an Item-based suggestion based on the name of the movie that the user has watched with the highest score.
+
+Note: Unable to add Ratings.csv file as the file is very large.
